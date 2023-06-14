@@ -4,4 +4,5 @@ from .models import *
 admin.site.register(Bolim)
 admin.site.register(Mahsulot)
 admin.site.register(Media)
+admin.site.register(Izoh)
 # Register your models here.
